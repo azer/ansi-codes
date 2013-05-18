@@ -13,6 +13,7 @@ module.exports     = {
   def              : "\033[39m",
   white            : "\033[37m",
   black            : "\033[30m",
+  grey             : "\x1B[90m",
   red              : "\033[31m",
   green            : "\033[32m",
   blue             : "\033[34m",
