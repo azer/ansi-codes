@@ -1,0 +1,22 @@
+{
+  "name": "ansi-codes",
+  "version": "0.0.0",
+  "description": "just an object that returns ANSI styling codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "ansi",
+    "styling"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/ansi-codes.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
