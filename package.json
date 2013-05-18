@@ -1,6 +1,6 @@
 {
   "name": "ansi-codes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "just an object that returns ANSI styling codes",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "styling"
   ],
   "repository": {
-    "url": "git@github.com:azer\/ansi-codes.git",
+    "url": "git@github.com:azer/ansi-codes.git",
     "type": "git"
   },
   "author": "azer",
