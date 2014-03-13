@@ -1,6 +1,6 @@
 ## ansi-codes
 
-ANSI Styling codes. Check out [styled](https://github.com/azer/styled) if you're looking for an example usage of this library.
+ANSI Styling codes. Check out [styled](https://github.com/azer/styled) or [style-format](https://github.com/azer/style-format) if you're looking for an example usage of this library.
 
 ## Install
 
