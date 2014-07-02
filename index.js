@@ -29,5 +29,14 @@ module.exports     = {
   blueBg           : "\033[44m",
   yellowBg         : "\033[43m",
   magentaBg        : "\033[45m",
-  cyanBg           : "\033[46m"
+  cyanBg           : "\033[46m",
+  
+  brightBlack      : "\033[90m",
+  brightRed        : "\033[91m",
+  brightGreen      : "\033[92m",
+  brightYellow     : "\033[93m",
+  brightBlue       : "\033[94m",
+  brightMagenta    : "\033[95m",
+  brightCyan       : "\033[96m",
+  brightWhite      : "\033[97m"
 }
