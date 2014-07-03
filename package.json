@@ -4,10 +4,10 @@
   "description": "just an object that returns ANSI styling codes",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "node test"
   },
   "devDependencies": {
-    "fox": "*"
+    "prova": "*"
   },
   "keywords": [
     "ansi",
